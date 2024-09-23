@@ -1,4 +1,4 @@
-
+# 12B Group
 # ax^2 + by + c = 0
 import math
 
